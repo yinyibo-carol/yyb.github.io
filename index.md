@@ -9,13 +9,13 @@
 <br/>
 <h3 style="cursor: zoom-out; font-size: 7ch; font-family: monospace;color: cadetblue;">NAVIGATION BAR</h3>
 <p style="font-variant: inherit; text-size-adjust: 4ch;">
-<a href="https://yinyibo-carol.github.io/yyb.github.io/index1.html">this is a link</a>  
+<a href="https://yinyibo-carol.github.io/yyb.github.io/index1.html">Introduction to Adobe Premiere Pro</a>  
 <br/>
 <br/>
-<a href="https://yinyibo-carol.github.io/yyb.github.io/index2.html">this is a link</a>
+<a href="https://yinyibo-carol.github.io/yyb.github.io/index2.html">Five editing basics</a>
 <br/>
 <br/>
-<a href="https://yinyibo-carol.github.io/yyb.github.io/index3.1.html">This is a link</a></p>      
+<a href="https://yinyibo-carol.github.io/yyb.github.io/index3.1.html">Start your video editing project</a></p>      
 <br/>
 <br/> 
 </body>
