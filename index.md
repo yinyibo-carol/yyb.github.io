@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body style="background-color: lightgray;">
-
-    <audio controls="controls">
-        <source src="/audio/bach.mp3" type="audio/mpeg">
-        <source src="/audio/bach.mp3" type="audio/mpeg">
-      Your browser does not support the audio element.
+    
    </audio>
 <h1 style="text-align: center; color: cadetblue; font-size: 10ch; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;"> Welcome to my website</h1>
 <br/>
