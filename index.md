@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<body style="background-color: lightgray;">
 
-You can use the [editor on GitHub](https://github.com/yinyibo-carol/yyb.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yinyibo-carol/yyb.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <audio controls="controls">
+        <source src="/audio/bach.mp3" type="audio/mpeg">
+        <source src="/audio/bach.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+   </audio>
+<h1 style="text-align: center; color: cadetblue; font-size: 10ch; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;"> Welcome to my website</h1>
+<br/>
+<h2 style="font-size: 5ch; color: cadetblue; text-align: center;"><i>Enjoy the learning of Adobe Premiere</i></h2>
+<br/>
+<hr/>
+<br/>
+<h3 style="cursor: zoom-out; font-size: 7ch; font-family: monospace;color: cadetblue;">NAVIGATION BAR</h3>
+<p style="font-variant: inherit; text-size-adjust: 4ch;">
+<a href=“file:///C:/Users/CAROL/Desktop/html/index1.%20html.html”>Introdction to Pr</a>  
+<br/>
+<br/>
+<a href="file:///C:/Users/CAROL/Desktop/html/index2.%20html.html">Five basic edits</a>
+<br/>
+<br/>
+<a href="file:///C:/Users/CAROL/Desktop/html/index2.%20html.html">This is a link</a></p>      
+<br/>
+<br/> 
+</body>
+</html>
