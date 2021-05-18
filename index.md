@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html>
-<body style="background-color: lightgray;">
     
-   </audio>
+<body style="background-color: lightgray;">
+ 
 <h1 style="text-align: center; color: cadetblue; font-size: 10ch; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;"> Welcome to my website</h1>
 <br/>
 <h2 style="font-size: 5ch; color: cadetblue; text-align: center;"><i>Enjoy the learning of Adobe Premiere</i></h2>
@@ -11,7 +10,7 @@
 <br/>
 <h3 style="cursor: zoom-out; font-size: 7ch; font-family: monospace;color: cadetblue;">NAVIGATION BAR</h3>
 <p style="font-variant: inherit; text-size-adjust: 4ch;">
-<a href=“file:///C:/Users/CAROL/Desktop/html/index1.%20html.html”>Introdction to Pr</a>  
+<a href="file:///C:/Users/CAROL/Desktop/html/index1.%20html.html">Introdction to Pr</a>  
 <br/>
 <br/>
 <a href="file:///C:/Users/CAROL/Desktop/html/index2.%20html.html">Five basic edits</a>
