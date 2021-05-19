@@ -1,4 +1,8 @@
+<!DOCTYPE html>
 <html>  
+ <head> 
+<meta charset="utf-8"> 
+  </head>
 <body style="background-color: lightgray;">
  
 <h1 style="text-align: center; color: cadetblue; font-size: 10ch; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;"> Welcome to my website</h1>
@@ -9,14 +13,10 @@
 <br/>
 <h3 style="cursor: zoom-out; font-size: 7ch; font-family: monospace;color: cadetblue;">NAVIGATION BAR</h3>
 <p style="font-variant: inherit; text-size-adjust: 4ch;">
-<a href="https://yinyibo-carol.github.io/yyb.github.io/index1.html">Introduction to Adobe Premiere Pro</a>  
-<br/>
-<br/>
-<a href="https://yinyibo-carol.github.io/yyb.github.io/index2.html">Five editing basics</a>
-<br/>
-<br/>
-<a href="https://yinyibo-carol.github.io/yyb.github.io/index3.1.html">Start your video editing project</a></p>      
-<br/>
-<br/> 
+<ul>
+  <li><a href="https://yinyibo-carol.github.io/yyb.github.io/index3.1.html">Introduction to Adobe Premiere Pro</a></li>
+  <li><a href="https://yinyibo-carol.github.io/yyb.github.io/index3.1.html">Five editing basics</a></li>
+  <li><a href="https://yinyibo-carol.github.io/yyb.github.io/index3.1.html">Start your video editing project</a></li>
+</ul>   
 </body>
 </html>
